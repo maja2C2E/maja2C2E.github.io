@@ -44,8 +44,8 @@ _The Islamic University of Gaza (IUG), Palestine_
 
 ## Work Experience
 
-**Senior Scientist**
-_University of Zagreb (UniZg), Croatian Centre for Earthquake Engineering, Zagreb, Croatia_
+**Scientist**
+_University of Zagreb (UniZg), Croatian Centre for Earthquake Engineering (CCEE), Zagreb, Croatia_
 **Feb 2025 (ongoing)**
 
 **Postdoctoral Fellow**
