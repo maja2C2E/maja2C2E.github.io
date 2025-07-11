@@ -22,7 +22,7 @@ In 2018, I moved to Switzerland to pursue my Ph.D. at École Polytechnique Féd�
 After that, I briefly worked as a postdoctoral fellow at EESD for 4 months.
 In 2023, after being awarded the prestigious PostDoc.Mobility grant from the Swiss National Science Foundation (SNSF), I moved to the USA to join the van Rees Laboratory (led by Prof. Wim van Rees at MIT).
 
-Currently, I work with Prof. Josip Atalić as a senior scientist at the Croatian Centre for Earthquake Engineering at the University of Zagreb (UniZg).
+Currently, I work with Prof. Josip Atalić as a scientist at the Croatian Centre for Earthquake Engineering at the University of Zagreb (UniZg).
 
 ---
 
@@ -95,6 +95,16 @@ Remeshing of closed contours to generate and parameterize 2D microstructures. In
 
 
 
+### Coming soon: Uniform remeshing of surfaces and contours via the harmonic decomposition approaches
+
+The reconstructed meshes via the harmonic approaches are neither optimal nor uniform. To have a high-quality mesh, we proposed a morphology-preserving meshing approach. This approach uses the analogy of the heat problem to diffuse the surface points equidistantly on the reconstructed surfaces/contours. The following are some of the obtained results:
+
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <div>
+    <img src="/GIFs/dolfin.gif" alt="GIF 1" style="height: 250px; object-fit: cover;" />
+    <p style="margin-top: 5px;">Uniform sampling of the dolphin's 2D contour via the Elliptic Fourier approach</p>
+  </div>
+</div>
 
 
 
