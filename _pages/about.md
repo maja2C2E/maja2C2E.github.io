@@ -63,11 +63,11 @@ During my academic career, I developed an interest in a variety of topics, all o
 This ongoing work focuses on surface parametrization, with further results and details to be presented in due course.
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <div>
-    <img src="/GIFs/Beetle_harmonics.gif" alt="GIF 1" style="height: 250px; object-fit: cover;" />
+    <img src="/GIFs/Beetle_harmonics.gif" alt="GIF 1" style="height: 300px; object-fit: cover;" />
     <p style="margin-top: 5px;">Harmonic basis (Eigen problem)</p>
   </div>
   <div>
-    <img src="/GIFs/Beetle_rec.gif" alt="GIF 2" style="height: 250px; object-fit: cover;" />
+    <img src="/GIFs/Beetle_rec.gif" alt="GIF 2" style="height: 300px; object-fit: cover;" />
     <p style="margin-top: 5px;">Harmonic reconstruction</p>
   </div>
 </div>
@@ -76,7 +76,7 @@ This ongoing work focuses on surface parametrization, with further results and d
 This is from our new paper [1] that generalizes the traditional **spherical** harmonics approach (SH).
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <div>
-    <img src="/GIFs/max_reconstruction_full.gif" alt="GIF 1" style="height: 250px; object-fit: cover;" />
+    <img src="/GIFs/max_reconstruction_full.gif" alt="GIF 1" style="height: 400px; object-fit: cover;" />
     <p style="margin-top: 5px;">Surface reconstruction of Max Planck's head bust</p>
   </div>
 </div>
@@ -97,17 +97,24 @@ Remeshing of closed contours to generate and parameterize 2D microstructures. In
 
 ### Coming soon: Uniform remeshing of surfaces and contours via the harmonic decomposition approaches
 
-The reconstructed meshes via the harmonic approaches are neither optimal nor uniform. To have a high-quality mesh, we proposed a morphology-preserving meshing approach. This approach uses the analogy of the heat problem to diffuse the surface points equidistantly on the reconstructed surfaces/contours. The following are some of the obtained results:
+The reconstructed meshes via the harmonic approaches are neither optimal nor uniform. To have a high-quality mesh, we proposed a morphology-preserving meshing approach. This approach uses the analogy of the heat problem to diffuse the surface points equidistantly on the reconstructed surfaces/contours. This work is still under review, and a preprint will be soon available. The following are some of the obtained results:
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <div>
-    <img src="/GIFs/dolfin.gif" alt="GIF 1" style="height: 250px; object-fit: cover;" />
+    <img src="/GIFs/dolfin.gif" alt="GIF 1" style="height: 500px; object-fit: cover;" />
     <p style="margin-top: 5px;">Uniform sampling of the dolphin's 2D contour via the Elliptic Fourier approach</p>
   </div>
 </div>
 
 
+The following is a 3D example for remeshing the above reconstruction of Max Planck's head bust:
 
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <div>
+    <img src="/GIFs/remeshing_head_bust.gif" alt="GIF 1" style="height: 500px; object-fit: cover;" />
+    <p style="margin-top: 5px;">Uniform sampling of 2-manifold (3D surface) via the SOH approach [1]</p>
+  </div>
+</div>
 
 
 ---
