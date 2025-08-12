@@ -76,7 +76,7 @@ This ongoing work focuses on surface parametrization, with further results and d
 This is from our new paper [1] that generalizes the traditional **spherical** harmonics approach (SH).
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <div>
-    <img src="/GIFs/max_reconstruction_full.gif" alt="GIF 1" style="height: 400px; object-fit: cover;" />
+    <img src="/GIFs/max_reconstruction_full.gif" alt="GIF 1" style="height: 350px; object-fit: cover;" />
     <p style="margin-top: 5px;">Surface reconstruction of Max Planck's head bust</p>
   </div>
 </div>
@@ -111,7 +111,7 @@ The following is a 3D example for remeshing the above reconstruction of Max Plan
 
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <div>
-    <img src="/GIFs/remeshing_head_bust.gif" alt="GIF 1" style="height: 500px; object-fit: cover;" />
+    <img src="/GIFs/remeshing_head_bust.gif" alt="GIF 1" style="height: 450px; object-fit: cover;" />
     <p style="margin-top: 5px;">Uniform sampling of 2-manifold (3D surface) via the SOH approach [1]</p>
   </div>
 </div>
