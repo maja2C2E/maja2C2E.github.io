@@ -22,14 +22,17 @@ In 2018, I moved to Switzerland to pursue my Ph.D. at École Polytechnique Féd�
 After that, I briefly worked as a postdoctoral fellow at EESD for 4 months.
 In 2023, after being awarded the prestigious PostDoc.Mobility grant from the Swiss National Science Foundation (SNSF), I moved to the USA to join the van Rees Laboratory (led by Prof. Wim van Rees at MIT).
 
-Currently, I work with Prof. Josip Atalić as a scientist at the Croatian Centre for Earthquake Engineering at the University of Zagreb (UniZg).
+From January to the end of September 2025, I worked with Prof. Josip Atalić as a scientist at the Croatian Centre for Earthquake Engineering at the University of Zagreb (UniZg).
+
+Currently, I am a postdoc researcher at ETH Zürich (Switzerland) in the Department of Mathematics (D-MATH) at the Seminar for Applied Mathematics (SAM) under the supervision of both Prof. Ralf Hiptmair and Prof. Habib Ammari.
 
 ---
 
 ## Contact
 
 - 📧 Email (personal): [msshaqfa@hotmail.com](mailto:msshaqfa@hotmail.com)
-- 📧 Email (academic): [mshaqfa@mit.edu](mailto:mshaqfa@mit.edu)
+<!-- - 📧 Email (academic): [mshaqfa@mit.edu](mailto:mshaqfa@mit.edu) -->
+- 📧 Email (academic): [mahmoud.shaqfa@math.ethz.ch](mailto:mahmoud.shaqfa@math.ethz.ch)
 
 ---
 
@@ -46,6 +49,10 @@ Currently, I work with Prof. Josip Atalić as a scientist at the Croatian Centre
 3. **PostDoc**:
    [Harmonic decomposition of the 3D morphology of surfaces for simulating the growth of soft shells and plates](https://data.snf.ch/grants/grant/211088)
    *(Prof. Wim M. van Rees, MIT, 2024)*
+
+4. **PostDoc**:
+   [Manifold harmonics for a high–fidelity spectral–Galerkin solver of shell–like engineering problems](https://data.snf.ch/grants/grant/235509)
+   *(Prof. Ralf Hiptmair and Prof. Habib Ammari, SAM, D-MATH, ETH Zurich, 2025)*
 
 ---
 
