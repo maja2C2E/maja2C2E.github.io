@@ -22,7 +22,7 @@ In 2018, I moved to Switzerland to pursue my Ph.D. at École Polytechnique Féd�
 After that, I briefly worked as a postdoctoral fellow at EESD for 4 months.
 In 2023, after being awarded the prestigious PostDoc.Mobility grant from the Swiss National Science Foundation (SNSF), I moved to the USA to join the van Rees Laboratory (led by Prof. Wim van Rees at MIT).
 
-From January to the end of September 2025, I worked with Prof. Josip Atalić as a scientist at the Croatian Centre for Earthquake Engineering at the University of Zagreb (UniZg).
+From February to the end of September 2025, I worked with Prof. Josip Atalić as a scientist at the Croatian Centre for Earthquake Engineering at the University of Zagreb (UniZg).
 
 Currently, I am a postdoc researcher at ETH Zürich (Switzerland) in the Department of Mathematics (D-MATH) at the Seminar for Applied Mathematics (SAM) under the supervision of both Prof. Ralf Hiptmair and Prof. Habib Ammari.
 

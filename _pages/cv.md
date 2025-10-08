@@ -34,6 +34,7 @@ _The Islamic University of Gaza (IUG), Palestine_
 
 ## Awards and Scholarships
 
+- **2025–2026**: SNSF Postdoc.Mobility grant: *Manifold harmonics for a high–fidelity spectral–Galerkin solver of shell–like engineering problems*. Project [235509](https://data.snf.ch/grants/grant/235509) at ETH Zürich — [Seminar for Applied Mathematics (SAM), Department of Mathematics (D-MATH)](https://math.ethz.ch/sam)
 - **2023–2025**: SNSF Postdoc.Mobility grant: *Harmonic decomposition of the 3D morphology of surfaces for simulating the growth of soft shells and plates*. Project [P500PT-211088](https://data.snf.ch/grants/grant/211088) at MIT — [van Rees Lab](https://vanreeslab.mit.edu/)
 - **2020–2022**: EPFL–ENAC cluster grant: Application of digital fabrication to hybrid stone-timber structures (Co-PI).
 - **2016–2018**: Stipendium Hungaricum scholarship (MSc studies).
@@ -44,9 +45,15 @@ _The Islamic University of Gaza (IUG), Palestine_
 
 ## Work Experience
 
+**Postdoctoral Fellow**
+_ETH Zürich, Zürich, Switzerland_
+**Oct 2025 – Oct 2026**
+- [Manifold harmonics for a high–fidelity spectral–Galerkin solver of shell–like engineering problems](https://data.snf.ch/grants/grant/235509)
+
+
 **Scientist**
 _University of Zagreb (UniZg), Croatian Centre for Earthquake Engineering (CCEE), Zagreb, Croatia_
-**Feb 2025 (ongoing)**
+**Feb 2025 - Sept 2025**
 
 **Postdoctoral Fellow**
 _Massachusetts Institute of Technology (MIT), Cambridge, USA_
