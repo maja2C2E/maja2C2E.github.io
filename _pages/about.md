@@ -102,7 +102,7 @@ Remeshing of closed contours to generate and parameterize 2D microstructures. In
 
 
 
-### Coming soon: Uniform remeshing of surfaces and contours via the harmonic decomposition approaches
+### Uniform remeshing of surfaces and contours via the harmonic decomposition approaches
 
 The reconstructed meshes via the harmonic approaches are neither optimal nor uniform. To have a high-quality mesh, we proposed a morphology-preserving meshing approach. This approach uses the analogy of the heat problem to diffuse the surface points equidistantly on the reconstructed surfaces/contours. This work is still under review, and a preprint will be soon available. The following are some of the obtained results:
 
