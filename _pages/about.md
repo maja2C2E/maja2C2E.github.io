@@ -124,6 +124,42 @@ The following is a 3D example for remeshing the above reconstruction of Max Plan
 </div>
 
 
+
+### Coming soon: `libharmonics`: A high-fidelity high-performance C++ library for harmonic decomposition and spectral Galerkin approaches
+
+This library includes a one-to-one Python bindings (API) for all the C++ functionalities implemented. `libharmonics` relies on OpenMP to parallelize some of the critical loops and FFTW3 to accelerate the decomposition processes (FFT).
+
+Some of the supported features of the library are:
+
+1. [Disk harmonics analysis](https://www.sciencedirect.com/science/article/pii/S002199912400826X).
+2. [Spheroidal harmonics](https://doi.org/10.1016/j.conbuildmat.2024.138967).
+3. [Hemispheroidal harmonics](https://doi.org/10.1016/j.cam.2024.116455).
+4. [2D Elliptic harmonics](https://doi.org/10.5075/epfl-thesis-9738).
+5. [Morphology-preserving remeshing approaches](https://doi.org/10.1016/j.powtec.2025.121991).
+6. Spectral Galerkin approaches for linear and nonlinear elliptic problems (**new**).
+7. Solid spherical harmonics expansions (**new**).
+8. Solid shell spherical harmonics expansions (**new**).
+9. Spectral Ritz solver with AutoDiff functionalities for shape-shifting problems (**new**).
+10. Fully spectral Galerkin Boundary Element (BEM) method for embedded particles in a matrix (e.g., Helmholtz, diffusion, and Stokes/elasticity problem kernels) (**new**).
+11. Supports adaptive or quasi-uniform quadrature rules, in addition to some traditional integration rules for spheres and disks (**new**).
+
+`libharmonics` is an open-source library (GPLv3) and will be hosted on this repo: [https://github.com/msshaqfa/libharmonics-open](https://github.com/msshaqfa/libharmonics-open).
+
+The current progress:
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <div>
+    <img src="/GIFs/libharmonics_gource.gif" alt="GIF 1" style="height: 450px; object-fit: cover;" />
+    <p style="margin-top: 5px;">`libharmonics` progress history.</p>
+  </div>
+</div>
+
+
+Main collaborators/groups working on adding new features:
+1. ETH Zurich, Seminar for Applied Mathematics (SAM), Peiyang Yu (PhD student), [Prof. Ralf Hiptmair](https://people.math.ethz.ch/~hiptmair/Homepage/index.html).
+2. CUHK, Department of Mathematics, [Prof. Gary P.T. Choi](https://www.math.cuhk.edu.hk/~ptchoi/) and his students.
+3. EPF Lausanne, EESD laboratory, Ignat Lesiv (PhD student), [Prof. Katrin Beyer](https://www.epfl.ch/labs/eesd/).
+
+
 ---
 ## References
 
