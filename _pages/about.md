@@ -26,7 +26,7 @@ From February to the end of September 2025, I worked with Prof. Josip Atalić as
 
 Currently, I am a postdoc researcher at ETH Zürich (Switzerland) in the Department of Mathematics (D-MATH) at the Seminar for Applied Mathematics (SAM). This position is hosted in the groups of Prof. Ralf Hiptmair and Prof. Habib Ammari.
 
-Soon, I will be joining a tenured Chargé de Recherche (CR) position at CNRS in the Laboratory of Microstructure Studies and Mechanics of Materials (LEM3), Metz, France.
+Soon, I will be joining a tenured Chargé de Recherche (CR) position at CNRS in the Laboratory of Microstructure Studies and Mechanics of Materials (LEM3), Metz, France. Read more in my [CNRS Competition 2026 post]({{ "/posts/2026/06/CNRS-Competition/" | relative_url }})
 
 ---
 
