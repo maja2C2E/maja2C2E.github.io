@@ -1,7 +1,9 @@
 ---
 permalink: /
 title: "Mahmoud Shaqfa - Science"
-author_profile: true
+layout: home
+author_profile: false
+hero_text: "Postdoc fellow &mdash; Seminar for Applied Mathematics (SAM), D-MATH"
 redirect_from: 
   - /about/
   - /about.html
@@ -62,7 +64,7 @@ Soon, I will be joining a tenured Chargé de Recherche (CR) position at CNRS in 
 
 During my academic career, I developed an interest in a variety of topics, all of which converge around geometry, shapes, topology, and optimization problems—often with an engineering flavor. These areas demand in-depth knowledge of numerical methods such as Galerkin approaches, Discrete Exterior Calculus, and spectral methods.
 
-**Keywords**: Solid Mechnanics, Fractal surfaces, Morphology, Computational geometry, Metaheuristics, Optimization, Fracture mechanics, Masonry structures, Rough contacts, CAD.
+**Keywords**: Solid Mechanics, Fractal surfaces, Morphology, Computational geometry, Metaheuristics, Optimization, Fracture mechanics, Masonry structures, Rough contacts, CAD.
 
 ---
 
@@ -94,7 +96,7 @@ This is from our new paper [1] that generalizes the traditional **spherical** ha
 
 ### Remeshing microstructures of 2D contours
 
-Remeshing of closed contours to generate and parameterize 2D microstructures. In the Figure below, the first two rows show how the contours morph from low to high frequencies (k) and how the number of segment (s) affects the reconstruction; the contours were expanded with a maximum 2<sup>7</sup> harmonics. The last row shows the corresponding FEM mesh for different frequencies and segments to control the mesh refinements.
+Remeshing of closed contours to generate and parameterize 2D microstructures. In the Figure below, the first two rows show how the contours morph from low to high frequencies (k) and how the number of segments (s) affects the reconstruction; the contours were expanded with a maximum 2<sup>7</sup> harmonics. The last row shows the corresponding FEM mesh for different frequencies and segments to control the mesh refinements.
 
 <figure>
   <img src="https://github.com/eesd-epfl/PIC2FEM/raw/master/refinments_EPFL.svg" alt="Refinement process for PIC2FEM" width="60%">
@@ -129,7 +131,7 @@ The following is a 3D example for remeshing the above reconstruction of Max Plan
 
 ### Coming soon: `libharmonics`: A high-fidelity high-performance C++ library for harmonic decomposition and spectral Galerkin approaches
 
-This library includes a one-to-one Python bindings (API) for all the C++ functionalities implemented. `libharmonics` relies on OpenMP to parallelize some of the critical loops and FFTW3 to accelerate the decomposition processes (FFT).
+This library includes one-to-one Python bindings (API) for all the C++ functionalities implemented. `libharmonics` relies on OpenMP to parallelize some of the critical loops and FFTW3 to accelerate the decomposition processes (FFT).
 
 Some of the supported features of the library are:
 
@@ -159,7 +161,7 @@ The current progress:
 Main collaborators/groups working on adding new features:
 1. ETH Zurich, Seminar for Applied Mathematics (SAM), Peiyang Yu (PhD student), [Prof. Ralf Hiptmair](https://people.math.ethz.ch/~hiptmair/Homepage/index.html).
 2. CUHK, Department of Mathematics, [Prof. Gary P.T. Choi](https://www.math.cuhk.edu.hk/~ptchoi/) and his students.
-3. EPF Lausanne, EESD laboratory, Ignat Lesiv (PhD student), [Prof. Katrin Beyer](https://www.epfl.ch/labs/eesd/).
+3. EPFL, Lausanne, EESD laboratory, Ignat Lesiv (PhD student), [Prof. Katrin Beyer](https://www.epfl.ch/labs/eesd/).
 
 
 ---

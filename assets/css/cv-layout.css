@@ -1,26 +1,27 @@
-/* CV Layout Specific Styles */
+/* CV Layout — supports light + dark themes */
 .cv-header-nav {
   padding: 1rem 0;
   text-align: center;
   margin-bottom: 2rem;
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid var(--global-border-color, #f2f2f2);
 }
 
 .cv-header-nav .home-button {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  padding: 0.5rem 1rem;
-  background-color: #2a7ae2;
-  color: white;
+  padding: 0.6em 1.4em;
+  background-color: var(--global-link-color, #2563eb);
+  color: #fff;
   text-decoration: none;
-  border-radius: 4px;
-  font-weight: 500;
-  transition: background-color 0.2s;
+  border-radius: 9999px;
+  font-weight: 600;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.2s ease;
 }
 
 .cv-header-nav .home-button:hover {
-  background-color: #1756a9;
+  filter: brightness(0.9);
+  transform: translateY(-1px);
 }
 
 .cv-container {
@@ -28,14 +29,18 @@
   margin: 0 auto;
 }
 
-/* Download links styling */
 .cv-download-links {
   margin-top: 2rem;
   text-align: center;
   padding: 1rem;
-  border-top: 1px solid #f2f2f2;
+  border-top: 1px solid var(--global-border-color, #f2f2f2);
 }
 
 .cv-download-links a {
   margin: 0 0.5rem;
+}
+
+@media print {
+  .cv-header-nav { display: none; }
+  .cv-container { max-width: 100%; }
 }

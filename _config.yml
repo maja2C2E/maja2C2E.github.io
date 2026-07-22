@@ -26,10 +26,13 @@ author:
   name             : "Mahmoud S. M. Shaqfa"
   pronouns         : "he/him"
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Zagreb, Croatia"
-  employer         : "University of Zagreb"
+  location         : "Zurich, Switzerland"
+  employer         : "ETH Zurich"
   uri              : # URL
-  email            : "mshaqfa@mit.edu"
+  email            : "mahmoud.shaqfa@math.ethz.ch"
+  scholar          :
+    citations      : 150
+    hindex         : 7
 
   # Academic websites
   academia         : # URL
@@ -101,7 +104,8 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    # colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -306,6 +310,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  # - jekyll-scholar
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -352,3 +357,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+timeout: 300

@@ -3,9 +3,8 @@
    ========================================================================== */
 
 $(document).ready(function () {
-  // detect OS/browser preference
-  // const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
-  const browserPref = window.matchMedia('(prefers-color-scheme: light)').matches
+  // detect OS/browser preference — default to light
+  const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
     ? 'dark'
     : 'light';
 

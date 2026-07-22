@@ -4,10 +4,17 @@
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
   height: fit-content;
   top: 0;
   width: 100%;
+
+  background: rgba(255, 255, 255, 0.85);
+  -webkit-backdrop-filter: blur(12px);
+          backdrop-filter: blur(12px);
+
+  html[data-theme="dark"] & {
+    background: rgba(15, 23, 42, 0.85);
+  }
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;

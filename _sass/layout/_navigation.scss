@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: var(--global-bg-color);
+  background: transparent;
 
   a {
     display: block;
@@ -231,6 +231,14 @@
         display: flex;
         justify-content: center;
         cursor: pointer;
+
+        i {
+          transition: transform 0.4s ease;
+        }
+
+        &:hover i {
+          transform: rotate(30deg);
+        }
       }
     }
 
@@ -267,8 +275,8 @@
     margin-top: 15px;
     padding: 5px;
     border: 1px solid var(--global-border-color);
-    border-radius: $border-radius;
-    background: #fff;
+    border-radius: 12px;
+    background: var(--global-bg-color);
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -303,7 +311,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #fff transparent;
+      border-color: var(--global-bg-color) transparent;
       display: block;
       z-index: 1;
     }
@@ -385,7 +393,7 @@
   color: var(--global-text-color-light);
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #fff;
+  background-color: var(--global-bg-color);
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -417,7 +425,7 @@
     text-decoration-line: none !important;
 
     &:hover {
-      color: #000;
+      color: var(--global-bg-color);
       background: var(--global-link-color-hover);
     }
   }
