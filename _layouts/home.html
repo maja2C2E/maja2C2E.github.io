@@ -49,17 +49,6 @@ layout: default
         <a href="mailto:{{ site.author.email }}" class="home-hero__social-link" title="Email"><i class="fas fa-envelope"></i></a>
       {% endif %}
     </div>
-
-    <div class="home-hero__stats">
-      <div class="home-hero__stat">
-        <span class="home-hero__stat-number" id="citation-count">{{ site.author.scholar.citations }}</span>
-        <span class="home-hero__stat-label">Citations</span>
-      </div>
-      <div class="home-hero__stat">
-        <span class="home-hero__stat-number" id="hindex-count">{{ site.author.scholar.hindex }}</span>
-        <span class="home-hero__stat-label">h-index</span>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -74,22 +63,3 @@ layout: default
     </div>
   </article>
 </div>
-
-<script>
-(function() {
-  var citationsEl = document.getElementById('citation-count');
-  var hindexEl = document.getElementById('hindex-count');
-  if (!citationsEl || !hindexEl) return;
-
-  fetch('https://api.semanticscholar.org/graph/v1/author/search?query={{ site.author.name | url_encode }}')
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-      if (data.data && data.data.length > 0) {
-        var author = data.data[0];
-        if (author.citationCount != null) citationsEl.textContent = author.citationCount;
-        if (author.hIndex != null) hindexEl.textContent = author.hIndex;
-      }
-    })
-    .catch(function() { /* keep static fallback values */ });
-})();
-</script>

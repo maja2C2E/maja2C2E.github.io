@@ -487,43 +487,6 @@
       border-color: var(--global-link-color);
     }
   }
-
-  &__stats {
-    display: flex;
-    justify-content: center;
-    gap: 2em;
-    margin-top: 2em;
-  }
-
-  &__stat {
-    text-align: center;
-    padding: 0.75em 1.5em;
-    background: rgba(255, 255, 255, 0.7);
-    border-radius: 12px;
-    backdrop-filter: blur(8px);
-    border: 1px solid rgba(255, 255, 255, 0.5);
-
-    html[data-theme="dark"] & {
-      background: rgba(30, 41, 59, 0.7);
-      border-color: rgba(255, 255, 255, 0.08);
-    }
-  }
-
-  &__stat-number {
-    display: block;
-    font-size: 1.75em;
-    font-weight: 700;
-    color: var(--global-link-color);
-    line-height: 1.2;
-  }
-
-  &__stat-label {
-    display: block;
-    font-size: $type-size-7;
-    color: var(--global-text-color-light);
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
 }
 
 .home-content {
