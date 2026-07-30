@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+Maja Baniček Shaqfa:
+  name        : "Maja Baniček Shaqfa"
+  uri         : "https://mbanicek.github.io"
+  email       : "maja.banicek@grad.unizg.hr"
+  bio         : "Postdoctoral Researcher, Croatian Centre for Earthquake Engineering, University of Zagreb"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  twitter     : "[ADD YOUR TWITTER/X]"
+  google_plus : "[ADD YOUR GOOGLE+ NAME]"

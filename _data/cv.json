@@ -1,152 +1,194 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Maja Baniček Shaqfa",
+    "email": "maja.banicek@grad.unizg.hr",
+    "phone": "+385 1 4800 776",
+    "website": "https://mbanicek.github.io",
+    "summary": "Postdoctoral Researcher, Croatian Centre for Earthquake Engineering (CCEE), Faculty of Civil Engineering, University of Zagreb",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "Kačićeva 26",
+      "postalCode": "HR-10000",
+      "city": "Zagreb",
+      "countryCode": "HR",
       "region": ""
     },
     "profiles": [
       {
+        "network": "ResearchGate",
+        "username": "Maja-Banicek",
+        "url": "https://www.researchgate.net/profile/Maja-Banicek"
+      },
+      {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=JlYBZQ0AAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-5591-0966"
+      },
+      {
+        "network": "Scopus",
+        "username": "",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=56938969300"
+      },
+      {
+        "network": "CroRIS",
+        "username": "",
+        "url": "https://www.croris.hr/osobe/profil/34900"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "mbanicek",
+        "url": "https://github.com/mbanicek"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "organization": "University of Zagreb, Faculty of Civil Engineering",
+      "position": "Postdoctoral Researcher",
+      "website": "https://www.grad.unizg.hr",
+      "startDate": "[ADD START DATE]",
+      "endDate": "",
+      "summary": "Seismic assessment and retrofit of masonry and reinforced concrete buildings. Post-earthquake damage assessment. Numerical modeling of track structures.",
+      "highlights": []
+    },
+    {
+      "organization": "University of Zagreb, Faculty of Civil Engineering",
+      "position": "Senior Assistant (viši asistent)",
+      "website": "https://www.grad.unizg.hr",
+      "startDate": "[ADD START DATE]",
+      "endDate": "",
+      "summary": "Teaching and research in structural engineering and earthquake engineering.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Zagreb, Faculty of Civil Engineering",
+      "area": "Civil Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2018",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "University of Zagreb, Faculty of Civil Engineering",
+      "area": "Civil Engineering",
+      "studyType": "M.Eng.",
+      "startDate": "[ADD START YEAR]",
+      "endDate": "[ADD END YEAR]",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "University of Zagreb, Faculty of Civil Engineering",
+      "area": "Civil Engineering",
+      "studyType": "B.Eng.",
+      "startDate": "[ADD START YEAR]",
+      "endDate": "[ADD END YEAR]",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
   "languages": [],
-  "interests": [],
+  "interests": [
+    "Earthquake engineering",
+    "Seismic assessment and retrofit",
+    "Masonry structures",
+    "Structural dynamics",
+    "Rail fastening systems",
+    "Numerical modeling",
+    "Graphic statics"
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Prediction of Modal Features for Different Damage Stages and Retrofit Methods of a Masonry Building",
+      "publisher": "Journal Article",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Baniček, M., Shaqfa, M., Vaing, S., & Atalić, J. (2025)."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Development of a New and Modification of Existing Elastic Clips for Rails Fastening",
+      "publisher": "Građevinar",
+      "releaseDate": "2022-01-01",
+      "website": "",
+      "summary": "Baniček, M., Uroš, M., & Lakušić, S. (2022)."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Utjecaj promjene geometrije pritiskalica za pričvršćenje tračnica na mehaničko ponašanje sustava pričvršćenja",
+      "publisher": "University of Zagreb",
+      "releaseDate": "2022-01-01",
+      "website": "",
+      "summary": "Doctoral dissertation."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Line Geometry and 3D Graphic Statics",
+      "publisher": "Građevinar",
+      "releaseDate": "2019-01-01",
+      "website": "",
+      "summary": "Kodrnja, I., Baniček, M., & Fresl, K. (2019)."
+    },
+    {
+      "name": "Increasing Efficiency of Iterative Application of the Force Density Method",
+      "publisher": "Građevinar",
+      "releaseDate": "2017-01-01",
+      "website": "",
+      "summary": "Šamec, E., Fresl, K., & Baniček, M. (2017)."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Seismic Assessment of Historic Stone Buildings",
+      "event": "[ADD CONFERENCE NAME]",
+      "date": "2023-01-01",
+      "location": "[ADD LOCATION]",
+      "description": "Experiences from the 2020 Zagreb earthquake."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Linking Seismic and Energy Retrofit After the 2020 Earthquakes",
+      "event": "[ADD CONFERENCE NAME]",
+      "date": "2021-01-01",
+      "location": "[ADD LOCATION]",
+      "description": "Linking energy and seismic retrofit strategies."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Plosni Nosači (Plate and Shell Structures)",
+      "institution": "University of Zagreb, Faculty of Civil Engineering",
+      "date": "2024-01-01",
+      "role": "Lectures and Exercises",
+      "description": "Graduate-level course on plate and shell structures."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Numeričko Modeliranje Kolosiječnih Konstrukcija",
+      "institution": "University of Zagreb, Faculty of Civil Engineering",
+      "date": "2024-01-01",
+      "role": "Exercises",
+      "description": "Graduate-level course on numerical modeling of track structures."
+    },
+    {
+      "course": "Proračun Postojećih Konstrukcija u Seizmički Aktivnim Područjima",
+      "institution": "University of Zagreb, Faculty of Civil Engineering",
+      "date": "2024-01-01",
+      "role": "Exercises",
+      "description": "Graduate-level course on assessment of existing structures in seismically active areas."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "[ADD PORTFOLIO ITEM]",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "[ADD DESCRIPTION]"
     }
   ]
 }
