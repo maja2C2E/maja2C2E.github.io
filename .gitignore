@@ -1,0 +1,12 @@
+_site/
+.sass-cache/
+.bundle/
+vendor/
+node_modules/
+*.gem
+.bundle
+.jekyll-cache
+.jekyll-metadata
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
